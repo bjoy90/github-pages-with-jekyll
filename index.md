@@ -1,3 +1,17 @@
-# Welcome to my blog
+<header>
 
-I'm glad you are here. I plan to talk about ...
+  # Bethany Fannin
+  ## Front-End Developer
+
+  ### I help small business owners & entrepreneurs market their brands and grow their internet presence by creating beautiful, modern, responsive websites that focus on user-experience.
+
+</header>
+
+<main>
+  
+  </main>
+  
+ <footer>
+  </footer>
+  
+
